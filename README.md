@@ -16,7 +16,7 @@
 
    ![image 5](A5_im5.png)
 
-   ![image 6](/Users/merylw/Desktop/6.170/Assignments/fritter-wangms/A5_im6.png)
+   ![image 6](A5_im6.png)
 
 2. **Dynamic buttons**
 
