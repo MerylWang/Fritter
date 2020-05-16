@@ -14,7 +14,7 @@
 
    For example, image 5 shows the View All Freets view when the user is logged out. The user can stlil view freets content, upvote numbers, and visit the author's profile via provided link. However, the user cannot upvote, refreet, or edit/delete. Image 6 shows the same view but with user logged in as `bob`. Bob can upvote, edit/delete freets that he authored, and refreet the freets that he did not author. 
 
-   ![image 5](/Users/merylw/Desktop/6.170/Assignments/fritter-wangms/A5_im5.png)
+   ![image 5](A5_im5.png)
 
    ![image 6](/Users/merylw/Desktop/6.170/Assignments/fritter-wangms/A5_im6.png)
 
