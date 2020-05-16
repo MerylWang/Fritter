@@ -14,9 +14,9 @@
 
    For example, image 5 shows the View All Freets view when the user is logged out. The user can stlil view freets content, upvote numbers, and visit the author's profile via provided link. However, the user cannot upvote, refreet, or edit/delete. Image 6 shows the same view but with user logged in as `bob`. Bob can upvote, edit/delete freets that he authored, and refreet the freets that he did not author.
 
-   ![image 5](/Users/merylw/Desktop/6.170/Assignments/fritter-wangms/A5_im5.png)
+   ![image 5](./images/A5_im5.png)
 
-   ![image 6](/Users/merylw/Desktop/6.170/Assignments/fritter-wangms/A5_im6.png)
+   ![image 6](./images/A5_im6.png)
 
 2. **Dynamic buttons**
 
@@ -25,21 +25,21 @@
 
 3. **On starting page, show all freets instead of create account**
 
-   ![image 1](./A5_im1.png)
+   ![image 1](./images/A5_im1.png)
 
-   ![image2](./A5_im2.png)
+   ![image2](./images/A5_im2.png)
 
    After ethical reflections from previous assignment, I decided to make this change. In my design from A4, a new user sees a welcome page whose primary purpose is to ask them to create an account (image 1). However, after reflection I decided to make `View All Freets` the focus of the welcome page instead, to prioritize presenting information over getting the users to commit to an account. If the user's purpose is to explore the site or browse freets, this lets users do so without asking them to commit with an account. A con is that, many actions (create freet, upvote, refreet, etc.) are not available without the user logging in, and this may not be immediately obvious to an user who does not create an account.
 
 
 
-   ![image 3](./A5_im4.png)
+   ![image 3](./images/A5_im4.png)
 
    A second reason I made this design change is that I found the separation of the  `create user` and `sign in` forms redundant, since the two forms are identical (both ask for username and password). So I think combining the two functions into a single pop-up form reduces confusion and removes the redundancy.
 
    4. **Do not display the number or list of followed authors or followers**
 
-      ![image 4](./A5_im3.png)
+      ![image 4](./images/A5_im3.png)
 
       This is another design change made after A4. In A4, I had shown that the user's profile page contains links to the list of `followers` (other users who follow them) and the list of `following` (other users whomst they follow) (image 3). After further reflection, I decided to remove this option. For my concept of `feed` (list of freets by authors they follow), they do not need to know who's following them. And to observe who they follow, they can refer to their feed.
 
@@ -54,4 +54,4 @@
 
    ## Ethical Reflection
 
-   The reflection after A4 as well the lecture on Ethics changed some aspects of my design, some of which are discussed above. Primarily, the discussion on ethics led me to think about and redefine the primary goal of the application. Whereas before, I focused on making the website easy to use for experienced American social media users by following most social media conventions (e.g. clicking on the logo leads to home, clicking on the username leads to a personal profile page, etc.). After the reflection, I wanted to shift my goal to make the less more transparent and LESS addictive. This manifested in design decisions such as 1) not making create account a priority in the welcome page, 2) not showing the numbers of followers/following or the list of names, 3) not showing the number of refreets or the list of people who refreeted a freet. Generally, I wanted to avoid social media designs the make the apps addictive by linking posts with post's popularity and essentially, the user's self-esteem. 
+   The reflection after A4 as well the lecture on Ethics changed some aspects of my design, some of which are discussed above. Primarily, the discussion on ethics led me to think about and redefine the primary goal of the application. Whereas before, I focused on making the website easy to use for experienced American social media users by following most social media conventions (e.g. clicking on the logo leads to home, clicking on the username leads to a personal profile page, etc.). After the reflection, I wanted to shift my goal to make the less more transparent and LESS addictive. This manifested in design decisions such as 1) not making create account a priority in the welcome page, 2) not showing the numbers of followers/following or the list of names, 3) not showing the number of refreets or the list of people who refreeted a freet. Generally, I wanted to avoid social media designs the make the apps addictive by linking posts with post's popularity and essentially, the user's self-esteem.
